@@ -214,7 +214,7 @@ if __name__ == "__main__" :
 	button2 = Button(root, text = "Clear", bg = "red", 
 					fg = "black", command = clearAll)
 	
-	button2.grid(row = 6, column = 1) 
+	button2.grid(row = 6, column = 1)
 	
 	# Start the GUI 
 	root.mainloop() 
